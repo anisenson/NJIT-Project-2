@@ -36,7 +36,7 @@ const vue_app = Vue.createApp({
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
             title: 'IMDB + Adams Top 8 Movies',
             owner: 'Adam Nisenson',
-            github: 'https://github.com/anisenson'
+            github: 'https://github.com/anisenson/NJIT-Project-2'
       }
     },
       methods: {
