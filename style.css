@@ -48,6 +48,11 @@ body {
 	padding-right: 5px;
 }
 
+
+.poster {
+    width: 500px;
+    height: auto;
+}
 /* This stylizes your Title and Rating Text */
 .title,
 .released {

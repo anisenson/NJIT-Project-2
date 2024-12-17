@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Forrest Gump",
+            "iscore": 8.8,
+            "rating": "PG-13",
+            "runtime": 142,
+            "released": [1994, 7, 6],
+            "country": "USA",
+            "posters": ["img/forrest-gump-poster-1.PNG", "img/forrest-gump-poster-2.PNG"],
+            "imdb": "https://www.imdb.com/title/tt0109830/?ref_=tt_mv_close",
+            "website": "https://www.paramountpictures.com/movies/forrest-gump",
+            "likes": 914,
+            "dislikes": 130,
+            "posterindex": 0
+      },
+      {
+            "title": "Star Wars: Episode V - The Empire Strikes Back",
+            "iscore": 8.7,
+            "rating": "PG",
+            "runtime": 124,
+            "released": [1980, 5, 21],
+            "country": "USA",
+            "posters": ["img/The_Empire_Strikes_Back_1.jpg", "img/The_Empire_Strikes_Back_2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0080684/?ref_=tt_mv_close",
+            "website": "https://www.starwars.com/films/star-wars-episode-v-the-empire-strikes-back",
+            "likes": 759,
+            "dislikes": 76,
+            "posterindex": 0
+      },
+      {
+            "title": "Back to the Future",
+            "iscore": 8.5,
+            "rating": "PG",
+            "runtime": 116,
+            "released": [1985, 7, 3],
+            "country": "USA",
+            "posters": ["img/backtothefuture1.PNG", "img/backtothefuture2.PNG"],
+            "imdb": "https://www.imdb.com/title/tt0088763/?ref_=tt_mv_close",
+            "website": "https://www.backtothefuture.com/",
+            "likes": 978,
+            "dislikes": 123,
+            "posterindex": 0
       }
 ]
